@@ -24,6 +24,8 @@
 | <img alt="Screenshot of the GitHub repository UI, with the Use this template button highlighted" src="assets/use-this-template.png" width="600" /> |
 | --- |
 
+
+
 Name your repository and click _Create repository from template_.
 
 | <img alt="Screenshot of the GitHub repository creation UI" src="assets/create-repository-from-template.png" width="500" /> |
